@@ -8,7 +8,7 @@
   <a href="https://github.com/JuanAsbahr">
   <img align="start" 
        width="big" src="https://github-readme-stats.vercel.app/api?username=JuanAsbahr&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_false"/>
-  <img align="180cm"
+  <img align="start"
        width="big" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanAsbahr&layout=compact&langs_count=10&theme=nightowl&hide_border=false"/>
 
 
